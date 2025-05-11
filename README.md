@@ -64,7 +64,7 @@ Query a pool's quantile.
   - 400: Invalid input.
   - 404: Pool not found/empty.
 
-  ## Run Test
-  ```bash
-   pytest
-  ```
+## Run Test
+```bash
+pytest
+```
